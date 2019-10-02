@@ -36,11 +36,12 @@ Broke down the task into multiple sub-tasks
 
 1) Data Collection
 	Data was collected using webscraping and webdriver (selenium) using python from official prokabbadi tournament website (https://www.prokabaddi.com/) for the below statistics
-		Team Stats
-		Player Stats
-		Match Schedule Stats
-		PlayersInTeams
-		DetailedTeamsAnalysis
-		Team Standings
+	
+		<br>a) Team Stats
+		<br>b) Player Stats
+		<br>c) Match Schedule Stats
+		<br>d) PlayersInTeams
+		<br>e) DetailedTeamsAnalysis
+		<br>f) Team Standings
 2) Prediction
 	
