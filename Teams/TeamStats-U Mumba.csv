@@ -1,9 +1,9 @@
 metrics,AllSeasons,Season1,Season2,Season3,Season4,Season5,Season6,Season7,Team
-Matches Played,125,18,23,22,14,16,16,16,U Mumba
-wins,77,9,15,10,7,13,14,9,U Mumba
+Matches Played,127,20,23,22,14,16,16,16,U Mumba
+wins,79,11,15,10,7,13,14,9,U Mumba
 draws,7,1,2,0,1,0,0,3,U Mumba
 losses,41,8,6,12,6,3,2,4,U Mumba
-Finishing Position,-,5,2,4,4,1,1,2,U Mumba
+Finishing Position,-,4,2,4,4,1,1,2,U Mumba
 highest score,"53
 vs","47
 vs","53
@@ -94,20 +94,20 @@ vs
 
 
 28",U Mumba
-Total Raids,5270,729,978,963,594,685,697,624,U Mumba
-Successful Raids,1783,238,372,322,188,206,187,270,U Mumba
-unsuccessful raid,1139,166,196,219,131,139,154,134,U Mumba
-empty raids,2348,325,410,422,275,340,356,220,U Mumba
+Total Raids,5352,811,978,963,594,685,697,624,U Mumba
+Successful Raids,1818,273,372,322,188,206,187,270,U Mumba
+unsuccessful raid,1154,181,196,219,131,139,154,134,U Mumba
+empty raids,2380,357,410,422,275,340,356,220,U Mumba
 success raid %,43%,42%,47%,44%,38%,37%,34%,56%,U Mumba
 no. of super raids,62,7,15,10,4,7,7,12,U Mumba
-raid touch points,1753,240,372,298,164,211,206,262,U Mumba
-raid bonus points,493,64,87,121,63,42,31,85,U Mumba
-total raid points,2246,304,459,419,227,253,237,347,U Mumba
-total tackles,2870,377,558,539,293,329,364,409,U Mumba
-successful tackles,1210,161,274,176,110,163,180,145,U Mumba
-unsuccesful tackles,1660,216,284,363,183,166,184,264,U Mumba
+raid touch points,1783,270,372,298,164,211,206,262,U Mumba
+raid bonus points,501,72,87,121,63,42,31,85,U Mumba
+total raid points,2284,342,459,419,227,253,237,347,U Mumba
+total tackles,2907,415,558,539,293,329,364,409,U Mumba
+successful tackles,1222,174,274,176,110,163,180,145,U Mumba
+unsuccesful tackles,1685,241,284,363,183,166,184,264,U Mumba
 successful tackle %,46%,46%,52%,37%,41%,51%,54%,38%,U Mumba
-no. of super tackles,102,16,15,26,11,6,16,12,U Mumba
-all outs inflicted,170,25,41,21,15,27,20,21,U Mumba
-total all out points,340,50,82,42,30,54,40,42,U Mumba
-total defence points,1310,175,289,202,121,169,196,157,U Mumba
+no. of super tackles,105,19,15,26,11,6,16,12,U Mumba
+all outs inflicted,172,27,41,21,15,27,20,21,U Mumba
+total all out points,344,54,82,42,30,54,40,42,U Mumba
+total defence points,1324,190,289,202,121,169,196,157,U Mumba

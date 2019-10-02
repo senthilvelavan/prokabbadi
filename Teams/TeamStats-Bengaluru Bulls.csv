@@ -1,11 +1,11 @@
 metrics,AllSeasons,Season1,Season2,Season3,Season4,Season5,Season6,Season7,Team
-Matches Played,125,19,24,22,14,14,16,16,Bengaluru Bulls
-wins,58,10,15,8,5,2,10,8,Bengaluru Bulls
+Matches Played,126,20,24,22,14,14,16,16,Bengaluru Bulls
+wins,59,11,15,8,5,2,10,8,Bengaluru Bulls
 draws,8,1,2,3,1,0,0,1,Bengaluru Bulls
 losses,59,8,7,11,8,12,6,7,Bengaluru Bulls
-Finishing Position,-,4,1,4,6,7,3,3,Bengaluru Bulls
+Finishing Position,-,5,1,4,6,7,3,3,Bengaluru Bulls
 highest score,"64
-vs","47
+vs","59
 vs","48
 vs","64
 vs","33
@@ -23,17 +23,17 @@ Biggest Winning Margin,"40
 vs
 
 
-24","21
+24","23
 
 
 
 
-26
+36
 
 vs
 
 
-47","16
+59","16
 
 
 
@@ -94,20 +94,20 @@ vs
 
 
 47",Bengaluru Bulls
-Total Raids,5327,794,1005,943,605,603,730,647,Bengaluru Bulls
-Successful Raids,1810,309,431,336,157,158,194,225,Bengaluru Bulls
-unsuccessful raid,1245,213,211,195,143,148,163,172,Bengaluru Bulls
-empty raids,2272,272,363,412,305,297,373,250,Bengaluru Bulls
-success raid %,43%,49%,54%,42%,33%,35%,35%,45%,Bengaluru Bulls
-no. of super raids,63,8,20,5,4,9,10,7,Bengaluru Bulls
-raid touch points,1811,295,428,294,147,181,222,244,Bengaluru Bulls
-raid bonus points,475,98,119,99,54,28,30,47,Bengaluru Bulls
-total raid points,2286,393,547,393,201,209,252,291,Bengaluru Bulls
-total tackles,2740,438,550,480,287,291,341,353,Bengaluru Bulls
-successful tackles,1086,168,219,185,109,94,158,153,Bengaluru Bulls
-unsuccesful tackles,1654,270,331,295,178,197,183,200,Bengaluru Bulls
-successful tackle %,43%,44%,42%,42%,43%,34%,48%,46%,Bengaluru Bulls
+Total Raids,5368,835,1005,943,605,603,730,647,Bengaluru Bulls
+Successful Raids,1846,345,431,336,157,158,194,225,Bengaluru Bulls
+unsuccessful raid,1248,216,211,195,143,148,163,172,Bengaluru Bulls
+empty raids,2274,274,363,412,305,297,373,250,Bengaluru Bulls
+success raid %,43%,52%,54%,42%,33%,35%,35%,45%,Bengaluru Bulls
+no. of super raids,64,9,20,5,4,9,10,7,Bengaluru Bulls
+raid touch points,1845,329,428,294,147,181,222,244,Bengaluru Bulls
+raid bonus points,480,103,119,99,54,28,30,47,Bengaluru Bulls
+total raid points,2325,432,547,393,201,209,252,291,Bengaluru Bulls
+total tackles,2767,465,550,480,287,291,341,353,Bengaluru Bulls
+successful tackles,1096,178,219,185,109,94,158,153,Bengaluru Bulls
+unsuccesful tackles,1671,287,331,295,178,197,183,200,Bengaluru Bulls
+successful tackle %,43%,43%,42%,42%,43%,34%,48%,46%,Bengaluru Bulls
 no. of super tackles,93,25,12,17,15,7,7,10,Bengaluru Bulls
-all outs inflicted,152,21,37,28,9,12,25,20,Bengaluru Bulls
-total all out points,304,42,74,56,18,24,50,40,Bengaluru Bulls
-total defence points,1172,191,230,200,124,100,164,163,Bengaluru Bulls
+all outs inflicted,156,25,37,28,9,12,25,20,Bengaluru Bulls
+total all out points,312,50,74,56,18,24,50,40,Bengaluru Bulls
+total defence points,1182,201,230,200,124,100,164,163,Bengaluru Bulls

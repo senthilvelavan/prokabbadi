@@ -1,65 +1,66 @@
 Season,PlayerName,MatchesPlayed,Avg tackle points
 All Seasons,Sandeep Kandola,16,3.69
-All Seasons,Sumit,17,3.41
-All Seasons,Vishal Bhardwaj,59,3.34
+All Seasons,Sumit,18,3.39
+All Seasons,Vishal Bhardwaj,59,3.36
+All Seasons,Nitesh Kumar,62,3.18
+All Seasons,Sandeep Kumar Dhull,64,3.14
 All Seasons,Manjeet Chhillar,108,3.14
 All Seasons,Surender Nada,71,3.13
-All Seasons,Sandeep Kumar Dhull,64,3.13
-All Seasons,Nitesh Kumar,61,3.11
-All Seasons,Fazel Atrachali,97,3.01
-All Seasons,Ravinder Pahal,107,2.92
+All Seasons,Fazel Atrachali,98,3.01
+All Seasons,Ravinder Pahal,109,2.94
 All Seasons,PO Surjeet Singh,92,2.89
 All Seasons,Mahender Singh,62,2.68
-All Seasons,Surinder Singh,62,2.66
 All Seasons,Amit Hooda,86,2.66
 All Seasons,Jaideep,67,2.64
 All Seasons,Sunil Kumar,68,2.63
+All Seasons,Surinder Singh,63,2.62
 All Seasons,Saurabh Nandal,18,2.61
-All Seasons,Mohit Chhillar,108,2.56
 All Seasons,Abozar Mohajermighani,63,2.54
-All Seasons,Girish Maruti Ernak,103,2.51
+All Seasons,Mohit Chhillar,109,2.54
 All Seasons,Vijendar Singh,8,2.5
-All Seasons,Sandeep Narwal,119,2.49
-All Seasons,Parvesh Bhainswal,74,2.39
-All Seasons,Vishal,25,2.32
-All Seasons,Sunil,37,2.24
-All Seasons,Baldev Singh,37,2.24
-All Seasons,Dharmaraj Cheralathan,114,2.21
-All Seasons,Joginder Singh Narwal,78,2.15
+All Seasons,Girish Maruti Ernak,104,2.49
+All Seasons,Sandeep Narwal,120,2.47
+All Seasons,Parvesh Bhainswal,76,2.43
+All Seasons,Vishal,25,2.36
+All Seasons,Baldev Singh,38,2.26
+All Seasons,Sunil,39,2.23
+All Seasons,Dharmaraj Cheralathan,116,2.22
+All Seasons,Joginder Singh Narwal,80,2.13
 All Seasons,Amit Sheoran,38,2.13
 All Seasons,Jasmer Singh Gulia,52,2.1
 All Seasons,Sachin Khambe,22,2.09
-All Seasons,Jeeva Kumar,111,2.04
+All Seasons,Jeeva Kumar,112,2.03
 All Seasons,Kuldeep Singh,20,2
 All Seasons,Harvinder Singh,4,2
 All Seasons,Nilesh Shinde,69,1.96
-All Seasons,Rinku Narwal,47,1.96
-All Seasons,Ran Singh,116,1.95
+All Seasons,Rinku Narwal,48,1.96
+All Seasons,Ran Singh,118,1.94
+All Seasons,Jadhav Balasaheb Shahaji,18,1.94
 All Seasons,Kuldeep Singh,66,1.86
 All Seasons,Yatharth Deshwal,6,1.83
-All Seasons,Ashu Singh,17,1.82
 All Seasons,Kuldeep Singh,36,1.78
 All Seasons,Neeraj Kumar,36,1.78
 All Seasons,Vinod Kumar,27,1.78
+All Seasons,Ashu Singh,18,1.78
 All Seasons,D. Suresh Kumar,59,1.75
 All Seasons,Satpal,22,1.73
-All Seasons,Jadhav Balasaheb Shahaji,17,1.71
+All Seasons,Ravi Kumar,92,1.7
 All Seasons,Amit Singh Chhillar,35,1.69
-All Seasons,Vikas Kale,57,1.67
 All Seasons,Sunil,63,1.67
-All Seasons,Ravi Kumar,90,1.67
+All Seasons,Vikas Kale,59,1.66
 All Seasons,Rohit Rana,82,1.66
+All Seasons,Pankaj,23,1.65
+All Seasons,Ruturaj Shivaji Koravi,38,1.63
+All Seasons,Darshan J.,29,1.59
 All Seasons,Wasim Sajjad,17,1.59
 All Seasons,Sachin Shingade,75,1.59
-All Seasons,Darshan J.,29,1.59
-All Seasons,Ruturaj Shivaji Koravi,36,1.58
-All Seasons,Pankaj,21,1.57
-All Seasons,Vishal Mane,123,1.57
+All Seasons,M. Abishek,7,1.57
 All Seasons,Bajirao Hodage,61,1.56
+All Seasons,Vishal Mane,125,1.55
 All Seasons,Hadi Oshtorak,69,1.51
 All Seasons,Narender,28,1.5
+All Seasons,Anil Kumar,54,1.5
 All Seasons,S Mahalingam,11,1.45
-All Seasons,Anil Kumar,52,1.44
 All Seasons,Gurpreet Singh,18,1.44
 All Seasons,Tapas Pal,7,1.43
 All Seasons,Dadaso Balaso Awad,12,1.42
@@ -67,7 +68,6 @@ All Seasons,Somvir Shekhar,61,1.41
 All Seasons,Sanket Sawant,5,1.4
 All Seasons,D. Gopu,34,1.38
 All Seasons,Sunil Siddhgavali,42,1.38
-All Seasons,Sombir,30,1.37
 All Seasons,Vikash,19,1.37
 All Seasons,Prashant Chavan,41,1.37
 All Seasons,Ram Kumar Sah,11,1.36
@@ -79,46 +79,49 @@ All Seasons,Anil Kumar,6,1.33
 All Seasons,Rajeev Kumar,3,1.33
 All Seasons,Shyam Kumar Sah,27,1.33
 All Seasons,Elavarasan A,3,1.33
-All Seasons,Mohammad Esmaeil Nabibakhsh,19,1.32
+All Seasons,Sombir,31,1.32
 All Seasons,Somvir,16,1.31
 All Seasons,Sidharth,21,1.29
 All Seasons,Monu,52,1.29
 All Seasons,Deepak Kumar,7,1.29
-All Seasons,Shubham Shinde,23,1.26
-All Seasons,Farhad Rahimi Milaghardan,58,1.26
+All Seasons,Farhad Rahimi Milaghardan,58,1.28
 All Seasons,Anil Kumar,19,1.26
+All Seasons,Shubham Shinde,23,1.26
+All Seasons,Mohammad Esmaeil Nabibakhsh,20,1.25
 All Seasons,Vikash,4,1.25
 All Seasons,Vijender Singh,8,1.25
 All Seasons,Amit Kumar,17,1.24
+All Seasons,C. Arun,87,1.23
 All Seasons,Rajesh Narwal,92,1.23
-All Seasons,C. Arun,87,1.22
 All Seasons,Jawahar Dagar,46,1.22
 All Seasons,Deepak Dhull,10,1.2
-All Seasons,M. Abishek,5,1.2
-All Seasons,Sagar B Krishna,59,1.19
 All Seasons,Amit Kumar,11,1.18
+All Seasons,Sagar,11,1.18
 All Seasons,Sagar Khatale,12,1.17
 All Seasons,Rajaguru Subramanian,46,1.17
+All Seasons,Sagar B Krishna,60,1.17
 All Seasons,Parveen,25,1.16
 All Seasons,Sanket Chavan,13,1.15
 All Seasons,Sachin Kumar,46,1.15
 All Seasons,Deepak Yadav,7,1.14
 All Seasons,D. Pradap,29,1.14
 All Seasons,Manoj Kumar,52,1.13
-All Seasons,Ponparthiban Subramanian,17,1.12
+All Seasons,Harendra Kumar,17,1.12
 All Seasons,Shrikant Tewthia,71,1.11
 All Seasons,Kalimuthu Balamahendran,23,1.09
 All Seasons,N. Renjith,11,1.09
 All Seasons,Ankit,12,1.08
 All Seasons,Sumit Malik,14,1.07
-All Seasons,Vijay,57,1.07
-All Seasons,Harendra Kumar,16,1.06
 All Seasons,Krushna Madane,16,1.06
-All Seasons,Manjeet,41,1.02
+All Seasons,Amit Kumar,19,1.05
+All Seasons,Ponparthiban Subramanian,19,1.05
+All Seasons,Vijay,59,1.03
 All Seasons,Gurvinder Singh,5,1
+All Seasons,Manjeet,42,1
+All Seasons,Vinod Kumar,47,1
+All Seasons,Rakesh Gowda,9,1
 All Seasons,E Subash,4,1
 All Seasons,Babu M,2,1
-All Seasons,Amit Kumar,18,1
 All Seasons,Lalit Chaudhary,7,1
 All Seasons,Muruthu M,3,1
 All Seasons,Nitin Rawal,45,1
@@ -130,35 +133,33 @@ All Seasons,Adinath Sakharam Gavali,1,1
 All Seasons,Swapnil Dilip Shinde,21,1
 All Seasons,Sunil Jaipal,38,1
 All Seasons,Rakesh Singh Kumar,49,1
-All Seasons,Sagar,9,1
 All Seasons,Ajeet,14,1
-All Seasons,Vinod Kumar,45,0.98
 All Seasons,Sachin Vittala,26,0.96
 All Seasons,Ziaur Rahman,34,0.94
 All Seasons,Manish,40,0.93
 All Seasons,Rupesh Tomar,15,0.93
 All Seasons,Mohit Sehrawat,13,0.92
-All Seasons,Amit,31,0.9
-All Seasons,Rakesh Gowda,9,0.89
+All Seasons,Amit,32,0.91
 All Seasons,Saeid Ghaffari,9,0.89
 All Seasons,Manoj Dhull,27,0.89
 All Seasons,Mahipal Narwal,34,0.88
+All Seasons,Mayur Shivtarkar,30,0.87
+All Seasons,Akshay Jadhav,29,0.86
 All Seasons,Nitin More,22,0.86
 All Seasons,Samarjeet Singh,22,0.86
-All Seasons,Akshay Jadhav,29,0.86
 All Seasons,Viraj Vishnu Landge,34,0.85
 All Seasons,Jitesh Joshi,19,0.84
 All Seasons,Parveen M. Jangra,6,0.83
 All Seasons,Parvesh,6,0.83
+All Seasons,Sandeep,6,0.83
 All Seasons,Ravinder Kumar,12,0.83
-All Seasons,Mayur Shivtarkar,29,0.83
-All Seasons,Mohsen Maghsoudloujafari,45,0.8
 All Seasons,Elangeshwaran R,5,0.8
 All Seasons,Parmod Narwal,35,0.8
 All Seasons,Pavan T. R.,15,0.8
 All Seasons,Adarsh T,19,0.79
 All Seasons,Hadi Tajik,28,0.79
-All Seasons,More GB,44,0.77
+All Seasons,Mohsen Maghsoudloujafari,46,0.78
+All Seasons,More GB,45,0.78
 All Seasons,Anup Kumar,91,0.76
 All Seasons,Vikas Jaglan,46,0.76
 All Seasons,Gurchet Singh,4,0.75
@@ -168,132 +169,133 @@ All Seasons,Seong Ryeol Kim,15,0.73
 All Seasons,Deepak Niwas Hooda,123,0.71
 All Seasons,Jagdeesha K.K.,7,0.71
 All Seasons,Anuj Kumar,7,0.71
-All Seasons,Chand Singh,7,0.71
 All Seasons,Ankit,13,0.69
 All Seasons,Umesh Mhatre,13,0.69
 All Seasons,Navneet Gautam,31,0.68
 All Seasons,Anoop E.V.,3,0.67
 All Seasons,Anil Shriram Nimbolkar,6,0.67
+All Seasons,Chand Singh,9,0.67
 All Seasons,Varinder Singh,8,0.63
 All Seasons,Vijin Thangadurai,51,0.63
 All Seasons,Young Chang Ko,37,0.62
 All Seasons,Gangadhari Mallesh,36,0.61
-All Seasons,Vineet Sharma,40,0.6
-All Seasons,Sandeep,5,0.6
 All Seasons,Ravinder,5,0.6
-All Seasons,Surender Gill,14,0.57
-All Seasons,Meraj Sheykh,94,0.57
+All Seasons,Vineet Sharma,41,0.59
+All Seasons,Meraj Sheykh,95,0.57
 All Seasons,T. Prasad,9,0.56
 All Seasons,Vikas Tomar,9,0.56
 All Seasons,G.S. Manikandan,20,0.55
 All Seasons,Kashiling Adake,92,0.55
-All Seasons,Preetam Chhillar,58,0.52
+All Seasons,Surender Gill,15,0.53
 All Seasons,Vijay Kumar,21,0.52
-All Seasons,Sanoj Kumar,2,0.5
-All Seasons,Amit Nagar,12,0.5
+All Seasons,Preetam Chhillar,58,0.52
 All Seasons,Gokul Shitole,4,0.5
 All Seasons,Aman Kumar,4,0.5
 All Seasons,Punit Kumar Teotia,4,0.5
 All Seasons,Jeeva Gopal,24,0.5
-All Seasons,Rahul Chaudhari,118,0.49
+All Seasons,Sanoj Kumar,2,0.5
+All Seasons,Amit Nagar,12,0.5
+All Seasons,Rahul Chaudhari,120,0.49
 All Seasons,Yogesh Hooda,21,0.48
 All Seasons,Wazir Singh,47,0.47
-All Seasons,Naveen,34,0.47
 All Seasons,Sachin Tanwar,63,0.46
+All Seasons,Naveen,35,0.46
+All Seasons,Amit Kharb,11,0.45
 All Seasons,Pawan Kumar Sehrawat,75,0.45
 All Seasons,Surjeet Narwal,31,0.45
 All Seasons,Isac Antony,9,0.44
 All Seasons,Rohit Kumar,89,0.44
-All Seasons,Rohit Baliyan,67,0.43
+All Seasons,Rohit Baliyan,68,0.43
 All Seasons,Jasvir Singh,77,0.42
 All Seasons,Mohammad Esmaeil Maghsoudlou Mahalli,17,0.41
 All Seasons,Shashank Wankhede,5,0.4
 All Seasons,Gurvinder Singh,45,0.4
-All Seasons,Rishank Devadiga,116,0.4
-All Seasons,Ravindra Ramesh Kumawat,18,0.39
-All Seasons,Manpreet Singh,13,0.38
+All Seasons,Rishank Devadiga,117,0.39
 All Seasons,Parveen Kumar,8,0.38
 All Seasons,Amit Om Prakash Rathi,16,0.38
+All Seasons,Manpreet Singh,13,0.38
 All Seasons,Ajay,16,0.38
+All Seasons,Ravindra Ramesh Kumawat,19,0.37
 All Seasons,Mahesh Goud,65,0.37
-All Seasons,Vikas Kumar,14,0.36
 All Seasons,Kamal Singh,11,0.36
+All Seasons,Vikas Kumar,14,0.36
+All Seasons,Nitin Tomar,66,0.35
 All Seasons,Vikram Kandola,3,0.33
 All Seasons,C Manoj Kumar,12,0.33
 All Seasons,Atif Waheed,3,0.33
 All Seasons,Jishnu,3,0.33
 All Seasons,Ravit Kumar,3,0.33
 All Seasons,Ashish Chhokar,12,0.33
+All Seasons,Hemant Chauhan,3,0.33
 All Seasons,Naveen Narwal,3,0.33
-All Seasons,Monu Goyat,68,0.32
+All Seasons,Monu Goyat,69,0.32
 All Seasons,Vinod Kumar,29,0.31
-All Seasons,Nitin Tomar,65,0.31
 All Seasons,Sudhanshu Tyagi,13,0.31
 All Seasons,Shabeer Bappu,74,0.31
 All Seasons,Tushar Balaram Bhoir,10,0.3
 All Seasons,Satish,10,0.3
-All Seasons,Darshan Kadian,38,0.29
 All Seasons,Sumit Singh,32,0.28
-All Seasons,Shrikant Jadhav,71,0.28
+All Seasons,Darshan Kadian,39,0.28
+All Seasons,Shrikant Jadhav,72,0.28
 All Seasons,Banty,11,0.27
 All Seasons,Bhupender Singh,47,0.26
+All Seasons,Rohit Gulia,58,0.26
+All Seasons,Sanju,4,0.25
+All Seasons,Gnanasekaran M,8,0.25
 All Seasons,Wajid Ali,4,0.25
 All Seasons,Ehsan Zamani Fard,8,0.25
 All Seasons,Sunil Subhash Lande,4,0.25
-All Seasons,Sanju,4,0.25
-All Seasons,Gnanasekaran M,8,0.25
-All Seasons,Vinay,17,0.24
 All Seasons,Mahendra Ganesh Rajput,62,0.24
 All Seasons,Tae Deok Eom,35,0.23
-All Seasons,Abhishek Singh,31,0.23
-All Seasons,Amit Kharb,9,0.22
-All Seasons,Amit Kumar Tomar,9,0.22
 All Seasons,Simon Kibura,9,0.22
 All Seasons,Jang Kun Lee,103,0.22
 All Seasons,Nitin Madane,37,0.22
-All Seasons,Pradeep Kumar,10,0.2
+All Seasons,Amit Kumar Tomar,9,0.22
+All Seasons,Abhishek Singh,32,0.22
+All Seasons,Vinay,19,0.21
 All Seasons,Armaan,10,0.2
-All Seasons,Rohit Gulia,56,0.2
+All Seasons,Pradeep Kumar,10,0.2
 All Seasons,Suresu Kumar,21,0.19
 All Seasons,Surender Singh,48,0.19
 All Seasons,Pankaj Mohite,16,0.19
 All Seasons,Ajay Thakur,115,0.18
-All Seasons,Naveen Kumar,40,0.18
 All Seasons,Nilesh Salunke,79,0.18
-All Seasons,Vikash Kandola,49,0.18
+All Seasons,Vikash Kandola,51,0.18
 All Seasons,Abolfazl Maghsodloumahali,47,0.17
-All Seasons,Chandran Ranjit,59,0.17
+All Seasons,Naveen Kumar,42,0.17
 All Seasons,CPO Surjeet Singh,48,0.17
-All Seasons,Sukesh Hegde,96,0.16
 All Seasons,Ravi Dalal,38,0.16
+All Seasons,Chandran Ranjit,61,0.16
 All Seasons,Deepak Narwal,81,0.16
 All Seasons,Deepak Kumar Dahiya,53,0.15
+All Seasons,Sukesh Hegde,97,0.15
 All Seasons,Azad Singh,13,0.15
 All Seasons,Siddharth Sirish Desai,39,0.15
+All Seasons,Rajnish,14,0.14
 All Seasons,Rohit Kumar,7,0.14
 All Seasons,Ajinkya Ashok Pawar,31,0.13
 All Seasons,Mangesh Bhagat,8,0.13
 All Seasons,Sanjay Kumar,8,0.13
 All Seasons,Pravin Niwale,17,0.12
-All Seasons,Maninder Singh,78,0.12
 All Seasons,Rakshith,17,0.12
-All Seasons,Selvamani K,55,0.11
+All Seasons,Selvamani K,56,0.11
 All Seasons,Rajesh Mondal,89,0.11
-All Seasons,Prashanth Kumar Rai,92,0.1
+All Seasons,Maninder Singh,79,0.11
+All Seasons,Prashanth Kumar Rai,94,0.1
 All Seasons,Tushar Patil,53,0.08
-All Seasons,Rakesh Narwal,25,0.08
+All Seasons,Rakesh Narwal,26,0.08
 All Seasons,Rohit Kumar Choudary,38,0.08
 All Seasons,Suraj Desai,12,0.08
+All Seasons,Sachin Narwal,12,0.08
 All Seasons,K. Prapanjan,81,0.07
 All Seasons,Pardeep Narwal,104,0.07
-All Seasons,Rajnish,14,0.07
 All Seasons,R. Sriram,15,0.07
-All Seasons,Athul MS,37,0.03
+All Seasons,Athul MS,38,0.03
 All Seasons,Pawan Kumar Kadian,74,0.03
 All Seasons,Ajay Kumar,50,0.02
 All Seasons,Harish Naik,21,0
 All Seasons,Anand Patil,26,0
-All Seasons,Dong Geon Lee,32,0
+All Seasons,Dong Geon Lee,33,0
 All Seasons,C Kalai Arasan,3,0
 All Seasons,Pardeep Kandola,3,0
 All Seasons,Kiran A,4,0
@@ -301,130 +303,136 @@ All Seasons,Vinoth Kumar,17,0
 All Seasons,Sonu Narwal,33,0
 All Seasons,Anil Singh,2,0
 All Seasons,Mandeep Kumar,7,0
-All Seasons,V. Ajith Kumar,15,0
-Season 7,Sumit,17,3.41
-Season 7,Vishal Bhardwaj,18,3.33
-Season 7,Sandeep Kumar Dhull,20,3.3
-Season 7,Fazel Atrachali,18,3.17
-Season 7,Baldev Singh,19,2.95
-Season 7,Mahender Singh,16,2.88
-Season 7,Vishal,14,2.86
-Season 7,Sunil,15,2.8
-Season 7,Ravinder Pahal,18,2.72
-Season 7,Neeraj Kumar,19,2.68
+All Seasons,V. Ajith Kumar,17,0
+Season 7,Vishal Bhardwaj,18,3.39
+Season 7,Sumit,18,3.39
+Season 7,Sandeep Kumar Dhull,20,3.35
+Season 7,Fazel Atrachali,20,3.2
+Season 7,Baldev Singh,20,2.95
+Season 7,Vishal,14,2.93
+Season 7,Ravinder Pahal,20,2.85
+Season 7,Mahender Singh,17,2.82
+Season 7,Nitesh Kumar,18,2.78
 Season 7,PO Surjeet Singh,19,2.68
-Season 7,Rinku Narwal,19,2.68
-Season 7,Saurabh Nandal,18,2.61
+Season 7,Rinku Narwal,20,2.65
+Season 7,Sunil,18,2.61
+Season 7,Saurabh Nandal,19,2.58
 Season 7,Amit Hooda,14,2.57
 Season 7,Sunil Kumar,18,2.56
-Season 7,Nitesh Kumar,17,2.53
-Season 7,Jaideep,19,2.53
-Season 7,Surinder Singh,18,2.5
+Season 7,Neeraj Kumar,20,2.55
 Season 7,Manjeet Chhillar,15,2.47
-Season 7,Joginder Singh Narwal,18,2.44
-Season 7,Dharmaraj Cheralathan,15,2.4
-Season 7,Sandeep Narwal,18,2.33
-Season 7,Pankaj,7,2.29
-Season 7,Ravi Kumar,15,2.27
-Season 7,Amit Sheoran,19,2.26
-Season 7,Parvesh Bhainswal,18,2.22
-Season 7,Girish Maruti Ernak,14,2.21
-Season 7,Vikas Kale,16,2.19
-Season 7,Mohit Chhillar,17,2.18
+Season 7,Jaideep,20,2.45
+Season 7,Parvesh Bhainswal,20,2.4
+Season 7,Pankaj,9,2.33
+Season 7,Dharmaraj Cheralathan,18,2.33
+Season 7,Joginder Singh Narwal,20,2.3
+Season 7,Surinder Singh,20,2.3
+Season 7,Ravi Kumar,18,2.22
+Season 7,Amit Sheoran,20,2.2
 Season 7,Abozar Mohajermighani,18,2.17
-Season 7,Hadi Oshtorak,19,1.84
-Season 7,Ashu Singh,17,1.82
+Season 7,Sandeep Narwal,20,2.15
+Season 7,Girish Maruti Ernak,15,2.07
+Season 7,Mohit Chhillar,18,2.06
+Season 7,Vikas Kale,19,2
+Season 7,Sandeep,1,2
+Season 7,Hadi Oshtorak,20,1.95
+Season 7,Jadhav Balasaheb Shahaji,18,1.94
+Season 7,Anil Kumar,16,1.88
+Season 7,Ashu Singh,18,1.78
 Season 7,Santhapanaselvam,8,1.75
-Season 7,Jeeva Kumar,18,1.72
-Season 7,Anil Kumar,14,1.71
-Season 7,Jadhav Balasaheb Shahaji,17,1.71
-Season 7,Ran Singh,17,1.59
-Season 7,Amit Kumar,12,1.5
-Season 7,Farhad Rahimi Milaghardan,18,1.44
-Season 7,Manjeet,19,1.42
+Season 7,Jeeva Kumar,19,1.68
+Season 7,Ran Singh,19,1.58
+Season 7,M. Abishek,7,1.57
+Season 7,Amit Kumar,13,1.54
+Season 7,Farhad Rahimi Milaghardan,18,1.5
 Season 7,Sanket Sawant,5,1.4
+Season 7,Manjeet,20,1.35
 Season 7,Elavarasan A,3,1.33
 Season 7,Hadi Tajik,12,1.33
-Season 7,Mohammad Esmaeil Nabibakhsh,19,1.32
-Season 7,Monu,19,1.32
 Season 7,Shubham Shinde,13,1.31
-Season 7,Amit,17,1.29
-Season 7,Vishal Mane,18,1.28
-Season 7,Sagar B Krishna,11,1.27
+Season 7,Amit,18,1.28
 Season 7,Nitin Rawal,15,1.27
-Season 7,More GB,16,1.25
-Season 7,M. Abishek,5,1.2
-Season 7,C. Arun,18,1.11
+Season 7,Monu,20,1.25
+Season 7,Mohammad Esmaeil Nabibakhsh,20,1.25
+Season 7,More GB,17,1.24
+Season 7,Vishal Mane,20,1.2
+Season 7,Sagar,11,1.18
+Season 7,C. Arun,18,1.17
+Season 7,Sagar B Krishna,12,1.17
 Season 7,Amit Kumar,9,1.11
 Season 7,Ankit,12,1.08
 Season 7,Sumit Malik,14,1.07
-Season 7,Harendra Kumar,16,1.06
-Season 7,Sagar,9,1
+Season 7,Harendra Kumar,18,1.06
+Season 7,Ruturaj Shivaji Koravi,15,1
 Season 7,Ajeet,14,1
+Season 7,Rakesh Gowda,9,1
 Season 7,Mohit Sehrawat,13,0.92
 Season 7,Saeid Ghaffari,9,0.89
-Season 7,Rakesh Gowda,9,0.89
-Season 7,Kuldeep Singh,9,0.89
 Season 7,Viraj Vishnu Landge,8,0.88
-Season 7,Ankit,7,0.86
-Season 7,Vikas Jaglan,19,0.84
+Season 7,Mayur Shivtarkar,7,0.86
+Season 7,Vikas Jaglan,20,0.85
+Season 7,Kuldeep Singh,10,0.8
 Season 7,Pavan T. R.,15,0.8
-Season 7,Ruturaj Shivaji Koravi,13,0.77
-Season 7,Pawan Kumar Sehrawat,19,0.74
+Season 7,Ankit,8,0.75
 Season 7,Jawahar Dagar,7,0.71
 Season 7,Ashish Kumar,7,0.71
-Season 7,Chand Singh,7,0.71
-Season 7,Vineet Sharma,10,0.7
+Season 7,Pawan Kumar Sehrawat,20,0.7
 Season 7,Krushna Madane,9,0.67
-Season 7,Mayur Shivtarkar,6,0.67
 Season 7,Kamal Singh,3,0.67
 Season 7,Parveen,6,0.67
-Season 7,Vijay,17,0.65
+Season 7,Chand Singh,9,0.67
 Season 7,Sunil Siddhgavali,14,0.64
-Season 7,Young Chang Ko,10,0.6
+Season 7,Young Chang Ko,11,0.64
+Season 7,Vineet Sharma,11,0.64
 Season 7,Deepak Niwas Hooda,20,0.6
 Season 7,Ravinder,5,0.6
-Season 7,Surender Gill,14,0.57
+Season 7,Amit Kharb,5,0.6
+Season 7,Vijay,19,0.58
 Season 7,Vijay Kumar,9,0.56
+Season 7,Surender Gill,15,0.53
 Season 7,Shabeer Bappu,14,0.5
-Season 7,Mohammad Esmaeil Maghsoudlou Mahalli,17,0.41
+Season 7,Nitin Tomar,13,0.46
+Season 7,Rohit Gulia,20,0.45
+Season 7,Mohammad Esmaeil Maghsoudlou Mahalli,18,0.44
+Season 7,Vinod Kumar,9,0.44
+Season 7,Ponparthiban Subramanian,7,0.43
+Season 7,Rahul Chaudhari,20,0.4
 Season 7,Rajaguru Subramanian,5,0.4
-Season 7,Ponparthiban Subramanian,5,0.4
-Season 7,Rahul Chaudhari,18,0.39
 Season 7,Sachin Kumar,12,0.33
-Season 7,Monu Goyat,9,0.33
+Season 7,Hemant Chauhan,3,0.33
 Season 7,Adarsh T,9,0.33
 Season 7,Naveen Narwal,3,0.33
-Season 7,Mohsen Maghsoudloujafari,10,0.3
-Season 7,Vikash Kandola,14,0.29
-Season 7,Rohit Gulia,18,0.28
-Season 7,Rohit Baliyan,15,0.27
-Season 7,Banty,11,0.27
-Season 7,Nitin Tomar,12,0.25
+Season 7,Monu Goyat,10,0.3
+Season 7,Mohsen Maghsoudloujafari,11,0.27
+Season 7,Banty,12,0.25
+Season 7,Vikash Kandola,17,0.24
 Season 7,Rohit Kumar,17,0.24
-Season 7,Chandran Ranjit,17,0.24
-Season 7,Vinay,17,0.24
-Season 7,Ajay,9,0.22
-Season 7,Sumit Singh,15,0.2
+Season 7,Rohit Baliyan,17,0.24
+Season 7,Chandran Ranjit,19,0.21
+Season 7,Ajay,10,0.2
+Season 7,Vinay,20,0.2
+Season 7,Rajnish,10,0.2
 Season 7,Pankaj Mohite,16,0.19
-Season 7,Shrikant Jadhav,17,0.18
-Season 7,Darshan Kadian,6,0.17
+Season 7,Sumit Singh,16,0.19
+Season 7,Shrikant Jadhav,18,0.17
 Season 7,Siddharth Sirish Desai,18,0.17
-Season 7,Naveen,13,0.15
+Season 7,Naveen,14,0.14
+Season 7,Darshan Kadian,7,0.14
 Season 7,Nilesh Salunke,17,0.12
 Season 7,K. Prapanjan,18,0.11
-Season 7,Naveen Kumar,18,0.11
-Season 7,Rajnish,10,0.1
+Season 7,Naveen Kumar,20,0.1
+Season 7,Sachin Narwal,12,0.08
 Season 7,Suraj Desai,12,0.08
-Season 7,Jang Kun Lee,13,0.08
-Season 7,Rishank Devadiga,13,0.08
+Season 7,Jang Kun Lee,14,0.07
+Season 7,Rishank Devadiga,14,0.07
 Season 7,Deepak Narwal,17,0.06
 Season 7,Sachin Tanwar,16,0.06
-Season 7,Abhishek Singh,16,0.06
-Season 7,Armaan,6,0
+Season 7,Abhishek Singh,18,0.06
 Season 7,Narender,3,0
-Season 7,V. Ajith Kumar,15,0
-Season 7,Maninder Singh,19,0
+Season 7,Armaan,6,0
+Season 7,V. Ajith Kumar,17,0
+Season 7,Maninder Singh,20,0
+Season 7,Prashanth Kumar Rai,14,0
 Season 6,Nitesh Kumar,25,4
 Season 6,Fazel Atrachali,23,3.61
 Season 6,Vishal Bhardwaj,17,3.53
